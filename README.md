@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif" width="200" height="150" />
 </div>
-<h3 align="center">A passionate Software Developer from Philippines.</h3>
+<h3 align="center">Currently a Software Developer from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ignaciocarlo&label=Profile%20views&color=0e75b6&style=flat" alt="ignaciocarlo" /> </p>
 
