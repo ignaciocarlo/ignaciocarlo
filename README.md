@@ -15,6 +15,7 @@
 - 📫 How to reach me **ignacio.carlosobredo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/carlo-ignacio-199b73234/"><img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" with="150" height="150"></a>
 <p align="left">
 </p>
 
