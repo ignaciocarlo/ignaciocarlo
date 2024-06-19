@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ignaciocarlo" alt="ignaciocarlo" /></a> </p>
 
-- 🔭 I’m currently working on [ListaTracker](https://github.com/ignaciocarlo/ListaTracker)
+- 🔭 I’m currently working on [AkongBlog](https://github.com/ignaciocarlo/AkongBlog)
 
 - 🌱 I’m currently learning **C#, ASP.Net Core, APIs**
 
